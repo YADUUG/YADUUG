@@ -12,6 +12,20 @@ I’m a passionate **Full Stack Developer** and **AI Enthusiast** pursuing my **
 My work focuses on building scalable web applications, AI-powered systems, and innovative solutions that bridge technology with real-world impact.
 
 ---
+# Hi there, I'm Yadunandan Bhardwaj 👋
+
+📍 Amritsar, Punjab, India  
+📧 [yaduug@gmail.com](mailto:yaduug@gmail.com)  
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YADUUG)  
+💻 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/YADUUG)
+
+---
+
+## 🚀 About Me  
+I’m a passionate **Full Stack Developer** and **AI Enthusiast** pursuing my **Masters of Computer Applications** at Guru Nanak Dev University.  
+My work focuses on building scalable web applications, AI-powered systems, and innovative solutions that bridge technology with real-world impact.
+
+---
 
 ## 🛠 Skills  
 
